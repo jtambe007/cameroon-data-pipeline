@@ -1,7 +1,6 @@
 # 🌍 Cameroon Macro-Economic & Infrastructure Data Pipeline
 
-[![Status: In-Progress](https://shields.io)](#-project-roadmap)
-[![Tech Stack](https://shields.io)](https://getdbt.com)
+Status: In-Progress
 
 An enterprise-grade, automated ELT (Extract, Load, Transform) data pipeline engineered to ingest, clean, validate, and model fragmented public-sector macroeconomic indicators and regional infrastructure development metrics into an analytical warehouse layer.
 
